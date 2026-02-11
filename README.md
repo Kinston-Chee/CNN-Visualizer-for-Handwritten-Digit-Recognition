@@ -61,4 +61,5 @@ CNN-Visualizer-for-Handwritten-Digit-Recognition/
 python -m venv .venv
 .\.venv\Scripts\activate
 pip install -r requirements.txt
-python "Hand Writing Recognition/Handwritten_Digit_Recognition.py"
+```
+Run the Handwritten_Digit_Recognition.ipynb
