@@ -41,6 +41,18 @@ The goal is **conceptual understanding**, especially for students learning deep 
 
 
 ---
+## Project Structure
+
+Make sure your project folder looks like this:
+
+CNN-Visualizer-for-Handwritten-Digit-Recognition/
+│
+├─ requirements.txt
+├─ README.md
+├─ Hand Writing Recognition/
+│ ├─ Handwritten_Digit_Recognition.py
+│ ├─ mnist_cnn.pth
+
 
 ##  How to Run (Windows)
 
